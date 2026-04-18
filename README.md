@@ -16,23 +16,31 @@ The project includes:
 ## Project Structure
 
 ├── analysis_results/ # Final evaluation outputs and summaries for LLMs
+
 ├── bigram_baseline_results/ # Results from bigram baseline model
+
 ├── scientsbank_batch_run/ # Raw outputs from OpenAI Batch API runs
-│
+
 ├── zero_shot.py # GPT zero-shot evaluation
+
 ├── five_shot.py # GPT 5-shot evaluation
+
 ├── fifteen_shot.py # GPT 15-shot evaluation
-│
+
 ├── bigram_baseline.py # Classical NLP baseline implementation
+
 ├── analysis.py # Evaluation + metrics computation
-│
+
 ├── figures.py # Plot generation (charts, confusion matrices)
-│
+
 ├── cm_gpt4o_5shot.eps # Confusion matrix (GPT-4o)
+
 ├── cm_gpt52_5shot.eps # Confusion matrix (GPT-5.2)
+
 ├── model_comparison.eps # Model comparison chart
+
 ├── per_class_comparison.eps # Per-class performance chart
-│
+
 ├── api_key.txt # OpenAI API key
 
 
