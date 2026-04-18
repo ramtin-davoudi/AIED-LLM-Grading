@@ -1,0 +1,6 @@
+run,label_id,label_name,count,per_label_accuracy
+gpt52_fifteen_shot,0,correct,233,0.7253218884120172
+gpt52_fifteen_shot,1,contradictory,58,0.7413793103448276
+gpt52_fifteen_shot,2,partially_correct_incomplete,113,0.6991150442477876
+gpt52_fifteen_shot,3,irrelevant,133,0.21052631578947367
+gpt52_fifteen_shot,4,non_domain,3,0.6666666666666666

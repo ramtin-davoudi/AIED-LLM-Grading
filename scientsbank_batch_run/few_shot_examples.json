@@ -1,0 +1,37 @@
+[
+  {
+    "id": "SE.22a.407.1",
+    "question": "Andi and Scott decided to investigate solar water heaters using collectors of different colors (but the same size) as one variable and covered versus uncovered as a second variable. Look at the graph of their data and answer the questions below. What does the graph tell you about the effect of using a cover?",
+    "reference_answer": "Water heats up faster when covered.",
+    "student_answer": "It heats up faster.",
+    "label": 0
+  },
+  {
+    "id": "SE.48.493.1",
+    "question": "Maggie wanted to find out if surface area affected temperature change. She had 3 white cake pans. She filled each with 300 milliliters of water. She put one small black plastic disk in pan A, 2 in pan B, and 3 in pan C. Then she put all 3 pans in the sun. When Maggie measured the water temperature in each pan after 15 minutes, which pan do you think held the hottest water? Explain your answer.",
+    "reference_answer": "C. Black absorbs more heat (energy) than white. Pan C has the most dark surface area so C would heat up the fastest and have the highest temperature.",
+    "student_answer": "A. Because energy did not have much to heat so it focused on that one thing.",
+    "label": 1
+  },
+  {
+    "id": "PS.45b.217.1",
+    "question": "Nathaniel and Sammy are trying to make up a code for sending messages to each other by dropping items in a drop chamber and listening to them. Sammy wants to design a code using blocks made of plastic, metal, and wood. Nathaniel thinks it would be a better idea to use wooden blocks of different sizes and shapes. Which student's method would make it easier to tell the difference between the sounds? Why?",
+    "reference_answer": "Sammy's. Different materials would make very different sounds. Different size wood would make very similar sounds.",
+    "student_answer": "Sammy - Because the blocks are made of different material.",
+    "label": 2
+  },
+  {
+    "id": "LF.34b.216.1",
+    "question": "Draw an arrow to show which direction the water flows in the river. (Rose Mountain is on the left and Happy Valley is on the right in the drawing.) Why do you think the water flows in that direction?",
+    "reference_answer": "Water will always flow downhill (mountain to valley).",
+    "student_answer": "Because it goes happy valley then the river.",
+    "label": 3
+  },
+  {
+    "id": "MS.14b.463.1",
+    "question": "Look at the picture below [which shows a balance tipped down on the side containing a ball; the right cup has 20 grams and 10 grams mass pieces]. The mass of the ball is one of the following. It must be A. 20 grams. B. 30 grams. (C. 40 grams.) Explain why you chose the answer that you did.",
+    "reference_answer": "There is 30 grams (20 grams plus 10 grams) in the right cup. The balance is tipped down on the ball side which means the ball weighs more than 30 grams. 40 grams is the only weight heavier than 30 grams.",
+    "student_answer": "Because if you see it is that because I chose it.",
+    "label": 4
+  }
+]

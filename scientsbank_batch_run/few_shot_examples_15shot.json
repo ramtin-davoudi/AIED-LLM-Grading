@@ -1,0 +1,107 @@
+[
+  {
+    "id": "SE.22a.407.1",
+    "question": "Andi and Scott decided to investigate solar water heaters using collectors of different colors (but the same size) as one variable and covered versus uncovered as a second variable. Look at the graph of their data and answer the questions below. What does the graph tell you about the effect of using a cover?",
+    "reference_answer": "Water heats up faster when covered.",
+    "student_answer": "It heats up faster.",
+    "label": 0
+  },
+  {
+    "id": "LP.16d.387.1",
+    "question": "Look at the illustration of the pulley system at the right to answer the questions. What additional disadvantages might there be to this system compared to a single fixed pulley system?",
+    "reference_answer": "You have to pull up in this system.  In the single fixed pulley system, you get a directional advantage.",
+    "student_answer": "Single fixed you can pull down, which does not give you a mechanical advantage. But you do not pull the rope farther than the load.",
+    "label": 0
+  },
+  {
+    "id": "II.20b.391.1",
+    "question": "When Sarah did the chromatography test, she saw that one black ink stayed black and didn't separate. She discovered that she had used a permanent marker. She wondered what would happen if she used a different liquid. She wrote in her science notebook, What if I used vinegar in place of the water? Can I get the pigments in permanent ink to separate? How will Sarah know if vinegar separated the permanent ink?",
+    "reference_answer": "Seeing multiple colors would show that vinegar can separate the permanent ink.",
+    "student_answer": "By the color when is changing color.",
+    "label": 0
+  },
+  {
+    "id": "SE.48.493.1",
+    "question": "Maggie wanted to find out if surface area affected temperature change. She had 3 white cake pans. She filled each with 300 milliliters of water. She put one small black plastic disk in pan A, 2 in pan B, and 3 in pan C. Then she put all 3 pans in the sun. When Maggie measured the water temperature in each pan after 15 minutes, which pan do you think held the hottest water? Explain your answer.",
+    "reference_answer": "C. Black absorbs more heat (energy) than white. Pan C has the most dark surface area so C would heat up the fastest and have the highest temperature.",
+    "student_answer": "A. Because energy did not have much to heat so it focused on that one thing.",
+    "label": 1
+  },
+  {
+    "id": "LF.27a.507.1",
+    "question": "The change in elevation between contour line A and contour line B is 20 meters. What is the change in elevation between contour line A and contour line C? How do you know that is the change in elevation between A and C?",
+    "reference_answer": "40 meters. The change in elevation is 20 meters between A and B and 20 meters between B and C. So the change between A and C is 40 meters. 20 m plus 20 m equals 40 m.",
+    "student_answer": "30 meters, Because if you look at A and then C. C get a lower amount by subtracting.",
+    "label": 1
+  },
+  {
+    "id": "MX.16a.437.1",
+    "question": "Mariella made a saturated solution by adding a solid to 100 milliliters water. Richard made a saturated solution by adding the same solid to 250 milliliters water. Do the 2 saturated solutions have the same concentration? Explain your answer.",
+    "reference_answer": "Yes. If both solutions are saturated (and at the same temperature), the solutions will both have the same concentration. Once a solution is saturated, the solution cannot get any more concentrated.",
+    "student_answer": "No. I think that Mariella's saturated solution is more concentrated because it has more solid.",
+    "label": 1
+  },
+  {
+    "id": "PS.45b.217.1",
+    "question": "Nathaniel and Sammy are trying to make up a code for sending messages to each other by dropping items in a drop chamber and listening to them. Sammy wants to design a code using blocks made of plastic, metal, and wood. Nathaniel thinks it would be a better idea to use wooden blocks of different sizes and shapes. Which student's method would make it easier to tell the difference between the sounds? Why?",
+    "reference_answer": "Sammy's. Different materials would make very different sounds. Different size wood would make very similar sounds.",
+    "student_answer": "Sammy - Because the blocks are made of different material.",
+    "label": 2
+  },
+  {
+    "id": "MX.10.434.1",
+    "question": "Jorge added solid material to a container of clear colorless liquid. The mixture began to bubble. Explain why Jorge knew a chemical reaction occurred.",
+    "reference_answer": "Bubbling means a gas has formed. Gas is a new material. A new material indicates a reaction.",
+    "student_answer": "Because the solution began to bubble.",
+    "label": 2
+  },
+  {
+    "id": "ST.25b1.396.1",
+    "question": "Look at the picture of the bean seedling shortly after germination. Describe the function of each of the parts: seed coat.",
+    "reference_answer": "The seed coat protects the seed until the plant begins to grow.",
+    "student_answer": "To protect the seed.",
+    "label": 2
+  },
+  {
+    "id": "LF.34b.216.1",
+    "question": "Draw an arrow to show which direction the water flows in the river. (Rose Mountain is on the left and Happy Valley is on the right in the drawing.) Why do you think the water flows in that direction?",
+    "reference_answer": "Water will always flow downhill (mountain to valley).",
+    "student_answer": "Because it goes happy valley then the river.",
+    "label": 3
+  },
+  {
+    "id": "EM.27b.610.1",
+    "question": "You can tell if a rock contains calcite by putting it into a cold acid (like vinegar). Describe what you would observe if you did the acid test on a rock that contains this substance.",
+    "reference_answer": "Many tiny bubbles will rise from the calcite when the calcite contacts the cold acid.",
+    "student_answer": "It will be separated in groups.",
+    "label": 3
+  },
+  {
+    "id": "VB.12d.539.1",
+    "question": "Describe the relationship between the length of the string and the number of swings a swinger makes in 15 seconds.",
+    "reference_answer": "The shorter the string is, the more the string swings in 15 seconds.  The longer the string is, the less the string swings in 15 seconds.",
+    "student_answer": "It changes the number of the swing.",
+    "label": 3
+  },
+  {
+    "id": "MS.14b.463.1",
+    "question": "Look at the picture below [which shows a balance tipped down on the side containing a ball; the right cup has 20 grams and 10 grams mass pieces]. The mass of the ball is one of the following. It must be A. 20 grams. B. 30 grams. (C. 40 grams.) Explain why you chose the answer that you did.",
+    "reference_answer": "There is 30 grams (20 grams plus 10 grams) in the right cup. The balance is tipped down on the ball side which means the ball weighs more than 30 grams. 40 grams is the only weight heavier than 30 grams.",
+    "student_answer": "Because if you see it is that because I chose it.",
+    "label": 4
+  },
+  {
+    "id": "ME.27b.255.1",
+    "question": "How can you use a magnet to find out if the key is iron or aluminum?",
+    "reference_answer": "If the key sticks, the key is iron; if the key does not stick the key is aluminum.",
+    "student_answer": "You would find the answer.",
+    "label": 4
+  },
+  {
+    "id": "EM.45b.578.1",
+    "question": "You used several methods to separate and identify the substances in mock rocks. How did you separate the salt from the water?",
+    "reference_answer": "The water was evaporated, leaving the salt.",
+    "student_answer": "I do not know.",
+    "label": 4
+  }
+]

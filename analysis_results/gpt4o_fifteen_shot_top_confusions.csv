@@ -1,0 +1,11 @@
+true_label_id,true_label_name,pred_label_id,pred_label_name,count
+2,partially_correct_incomplete,0,correct,55
+3,irrelevant,2,partially_correct_incomplete,33
+0,correct,2,partially_correct_incomplete,31
+3,irrelevant,1,contradictory,18
+3,irrelevant,0,correct,9
+1,contradictory,3,irrelevant,9
+1,contradictory,2,partially_correct_incomplete,8
+2,partially_correct_incomplete,3,irrelevant,7
+2,partially_correct_incomplete,1,contradictory,7
+0,correct,1,contradictory,4

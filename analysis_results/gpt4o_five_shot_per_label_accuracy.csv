@@ -1,0 +1,6 @@
+run,label_id,label_name,count,per_label_accuracy
+gpt4o_five_shot,0,correct,233,0.8326180257510729
+gpt4o_five_shot,1,contradictory,58,0.6896551724137931
+gpt4o_five_shot,2,partially_correct_incomplete,113,0.4690265486725664
+gpt4o_five_shot,3,irrelevant,133,0.49624060150375937
+gpt4o_five_shot,4,non_domain,3,0.0

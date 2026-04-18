@@ -1,0 +1,34 @@
+Train split: train
+Test split: test_ua
+Train rows: 4969
+Test rows: 540
+Vocabulary size: 1567
+ADD_K: 0.01
+MIN_COUNT: 2
+
+Accuracy: 0.5426
+Macro Precision: 0.4268
+Macro Recall: 0.3959
+Macro F1: 0.4043
+Weighted Precision: 0.5525
+Weighted Recall: 0.5426
+Weighted F1: 0.5416
+
+Classification Report:
+                              precision    recall  f1-score     support
+correct                        0.616935  0.656652  0.636175  233.000000
+contradictory                  0.526316  0.344828  0.416667   58.000000
+partially_correct_incomplete   0.385135  0.504425  0.436782  113.000000
+irrelevant                     0.605769  0.473684  0.531646  133.000000
+non_domain                     0.000000  0.000000  0.000000    3.000000
+accuracy                       0.542593  0.542593  0.542593    0.542593
+macro avg                      0.426831  0.395918  0.404254  540.000000
+weighted avg                   0.552518  0.542593  0.541594  540.000000
+
+Confusion Matrix:
+                                   pred_correct  pred_contradictory  pred_partially_correct_incomplete  pred_irrelevant  pred_non_domain
+true_correct                                153                   8                                 51               20                1
+true_contradictory                           19                  20                                 12                7                0
+true_partially_correct_incomplete            41                   3                                 57               12                0
+true_irrelevant                              34                   7                                 28               63                1
+true_non_domain                               1                   0                                  0                2                0

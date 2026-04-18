@@ -1,0 +1,6 @@
+,pred_correct,pred_contradictory,pred_partially_correct_incomplete,pred_irrelevant,pred_non_domain
+true_correct,153,8,51,20,1
+true_contradictory,19,20,12,7,0
+true_partially_correct_incomplete,41,3,57,12,0
+true_irrelevant,34,7,28,63,1
+true_non_domain,1,0,0,2,0
